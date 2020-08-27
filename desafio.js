@@ -1,7 +1,7 @@
 // Dado a estrutura abaixo:
 // Analise as classes necessárias, faça a criação das instancias,
 // e trabalhe na exibição(loop) dos dados separados usando console.log
-// ex: dados do cliente, saldo em polpança, saldo da conta corrente e movimantação
+// ex: dados do cliente, saldo em poupança, saldo da conta corrente e movimantação
 // obs: exiba os dados estando em objetos de classes(componentes)
 
 export default clientes = [
