@@ -10,10 +10,7 @@ export default clientes = [
         clienteNome: "João Faria",
         clienteEmail: "joao@mail.com",
         clienteCPF: "222.222.222-22",
-        contaPoupanca: { 
-            id: "as12320898-as01sadr2-109jdsad",
-            saldo: 1500.00
-        },
+        contaPoupanca: 1500.00,
         contaCorrente: {
             id: "2h3i12uh-0ggh0d9h-93hb9fh",
             saldo: 253.22,
